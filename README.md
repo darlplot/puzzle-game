@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # puzzlegame
 
 ## Project setup
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# puzzle-game
+>>>>>>> 8f751bc6ae2304c4f705842b57b7f59faea4d17d
